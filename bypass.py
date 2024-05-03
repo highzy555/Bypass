@@ -18,7 +18,7 @@ def high():
   t.start()
 
 # เบอร์โทรศัพท์สำหรับใส่ในซองอั่งเปาทรูมันนี่วอเล็ต
-phone_number = os.enviton['number']
+phone_number = os.environ['number']
 email = os.environ['mail']
 password = os.environ['pass']
 high()
